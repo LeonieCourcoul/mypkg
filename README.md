@@ -4,6 +4,8 @@
 # mypkg
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Leonie498/mypkg/workflows/R-CMD-check/badge.svg)](https://github.com/Leonie498/mypkg/actions)
 <!-- badges: end -->
 
 The goal of mypkg is to compute a multivariate normal density.
