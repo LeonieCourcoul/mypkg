@@ -18,6 +18,7 @@
 #'
 mvnpdf <- function(x, mean =  rep(0, nrow(x)),
                    varcovM = diag(nrow(x)), Log = TRUE) {
+  #essai
   n <- ncol(x)
   p <- nrow(x)
   x0 <- x - mean
