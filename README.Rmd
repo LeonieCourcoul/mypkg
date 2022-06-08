@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkg is to compute a density.
+The goal of mypkg is to compute a density. A multivariate normal one.
 
 ## Installation
 
