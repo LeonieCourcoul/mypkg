@@ -6,11 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<<<<<<< HEAD
 The goal of mypkg is to compute a multivariate normal density.
-=======
-The goal of mypkg is to compute a density. A multivariate normal one.
->>>>>>> 6764cbe45d38c419bb23e0bedce40cd189266c69
 
 ## Installation
 
