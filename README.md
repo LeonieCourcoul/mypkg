@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/Leonie498/mypkg/workflows/R-CMD-check/badge.svg)](https://github.com/Leonie498/mypkg/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/Leonie498/mypkg/branch/master/graph/badge.svg)](https://app.codecov.io/gh/Leonie498/mypkg?branch=master)
 <!-- badges: end -->
 
 The goal of mypkg is to compute a multivariate normal density.
